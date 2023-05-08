@@ -105,25 +105,28 @@ main{
 }
 .media{
     display: flex;
+    width: 95%;
 }
+
 .h1{
     display: flex;
     height: 16.5em;
-    width: 45%;
+    width: 47%;
     margin-top: 6.25em;
     background-color: white;
+
 }
 .titulo{
     font-family: Arial Round MT Bold;
     font-weight:100;
     font-size: 5em;
     padding-top: 8%;
-    padding-left: 11%;
+    padding-left: 13%;
 }
 .escale{
     display: flex;
     position: absolute;
-    margin-left: 92.5%;
+    margin-left: 91%;
     margin-top: 17%;
     border: 1px solid black;
     width: 0.25em;
@@ -139,7 +142,7 @@ main{
 .escalenumber{
     display: flex;
     position: absolute;
-    margin-left: 91.60%;
+    margin-left: 90%;
     margin-top: 17.5%;
     width: 1em;
     height: 12em;
@@ -168,6 +171,7 @@ main{
 }
 .bshop:hover{
     background-color: aliceblue;
+    transform: rotate(180deg);
 }
 .h2{
     width: 30%;

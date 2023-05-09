@@ -188,10 +188,7 @@ main{
     font-family: Arial Round MT Bold;
     color: rgb(189, 187, 187);
 }
-.blupa:hover{
-    transform: rotate(360deg);
-    transition: 1s;
-}
+
 .bt:hover{
     border: 1px solid black;
 }

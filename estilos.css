@@ -112,7 +112,7 @@ main{
     display: flex;
     height: 16.5em;
     width: 47%;
-    margin-top: 6.25em;
+    margin-top: 10%;
     background-color: white;
 
 }
@@ -156,7 +156,6 @@ main{
     height: 100px;
     background-color: white;
     width: 30%;
-    
 }
 .bshop{
     width: 158px;
